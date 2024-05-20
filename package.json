@@ -1,0 +1,17 @@
+{
+  "name": "maps-drawing-tool-full-stack",
+  "version": "1.0.0",
+  "description": "",
+  "private":"true",
+  "main": "index.js",
+  "scripts": {
+    "start:nextjs": "npm --prefix drawing/maps-next run dev",
+    "start:django": "cd drawing/maps-django && python manage.py runserver"
+  },
+  "workspaces": [
+    "drawing/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
