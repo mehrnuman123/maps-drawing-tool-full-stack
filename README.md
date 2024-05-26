@@ -6,7 +6,7 @@ Follow these steps to set up and run the Maps Drawing Tool Full Stack:
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/mehrnuman123/maps-drawing-tool-full-stack.git
     cd maps-drawing-tool-full-stack
     ```
 
