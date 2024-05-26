@@ -32,17 +32,9 @@ Follow these steps to set up and run the Maps Drawing Tool Full Stack:
 
 6. **Open a new terminal window/tab for the backend.**
 
-7. **Navigate to the backend directory:**
-    ```sh
-    cd backend
-    ```
 
-8. **Install backend dependencies:**
-    ```sh
-    npm install
-    ```
 
-9. **Start the Django backend:**
+7. **Start the Django backend:**
     ```sh
     npm run start:django
     ```
